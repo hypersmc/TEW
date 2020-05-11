@@ -10,8 +10,8 @@
     "modid": "theevolvingworld",
     "modName": "The Evolving World",
     "version": "1.0.0",
-    "author": "JumpWatch, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "author": "JumpWatch",
+    "websiteURL": "https://not.net",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -19,6 +19,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "1.12.2",
+    "credits": "hiii",
     "modElementsPackage": "net.hypersmc.theevolvingworld",
     "lockBaseModFiles": false
   },
